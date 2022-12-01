@@ -3,7 +3,7 @@ Repository for GEO242 at UC Riverside, fitting a simple plane to earthquake data
 
 ## Course elements
 
-The course covers various aspects of scientific computing for geoscience graduate students.
+The course covers various aspects of scientific computing for geoscience graduate students:
 
 -The shell and shell scripting
 -Simple data manipulation with awk and sed
